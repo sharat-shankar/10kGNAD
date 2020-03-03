@@ -1,2 +1,1 @@
-# 10kGNAD
-10k German News Articles Dataset
+# Topic Modeling on 10kGNAD
